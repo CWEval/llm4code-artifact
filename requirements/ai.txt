@@ -1,0 +1,11 @@
+openai
+# local
+torch # --index-url https://download.pytorch.org/whl/cu124
+transformers
+accelerate
+vllm
+# google
+google-auth
+google-generativeai
+# anthropic
+anthropic[vertex]
